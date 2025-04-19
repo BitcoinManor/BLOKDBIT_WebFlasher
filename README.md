@@ -2,7 +2,7 @@
 
 **Flash your BLOKDBIT device right from your browser — no software, no drivers, just plug in and go.**
 
-![BLOKDBIT Banner](https://github.com/BitcoinManor/BlokdBit-Matrix/raw/main/assets/blokdbit_banner.png)
+![BLOKDBIT Banner](https://github.com/BitcoinManor/BLOKDBIT_Matrix/raw/master/assets/blokdbit_banner.png)
 
 This is the official Web Flasher for BLOKDBIT devices like the **Matrix** and **Spark**. Whether you're setting up for the first time or updating your firmware, this tool gets you going in seconds.
 
