@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" href="assets/blokdbit_logo_icon.png" type="image/png">
-  <title>🚀 BLOKDBIT Web Flasher | Flash Your ₿itcoin Dashboard in Seconds</title>
+  <title>🚀 STACKSWORTH Web Flasher | Flash Your ₿itcoin Dashboard in Seconds</title>
 
 
   <script src="libs/bundle.js"></script>
@@ -221,13 +221,13 @@
     <div class="close" onclick="togglePopup('start')">✖</div>
     <h3>Getting Started</h3>
     <ol>
-      <li>🔌 Connect your BLOKDBIT device via USB</li>
-      <li>📲 Select your BLOKDBIT model</li>
+      <li>🔌 Connect your STACKSWORTH device via USB</li>
+      <li>📲 Select your STACKSWORTH model</li>
       <li>📶 Enter Wi-Fi and location configuration</li>
       <li>⚡ Flash the correct firmware</li>
       <li>✅ Done! Your device is ready 🚀</li>
     </ol>
-    <p style="font-size: 12px; margin-top: 20px;">More detailed setup guide available at:<br><a href="#" target="_blank" style="color:#fca420;">github.com/BitcoinManor/blokdbit-setup</a></p>
+    <p style="font-size: 12px; margin-top: 20px;">More detailed setup guide available at:<br><a href="#" target="_blank" style="color:#fca420;">github.com/BitcoinManor/stacksworth-setup</a></p>
   </div>
 
   <div class="popup" id="socials" style="top: 50px; left: 50%; transform: translateX(-50%); width: 300px;">
@@ -235,21 +235,21 @@
     <h3>Connect With Us</h3>
     <p>
       <a href="https://x.com/BitcoinManor" target="_blank" style="color:#fca420;">❌ Bitcoin Manor</a><br>
-      <a href="https://x.com/blokdbit" target="_blank" style="color:#fca420;">❌ BLOKDBIT</a><br>
+      <a href="https://x.com/stacksworth" target="_blank" style="color:#fca420;">❌ STACKSWORTH</a><br>
       <a href="https://www.instagram.com/bitcoinmanor/" target="_blank" style="color:#fca420;">📸 Bitcoin Manor</a><br>
-      <a href="https://www.instagram.com/blokdbit/" target="_blank" style="color:#fca420;">📸 BLOKDBIT</a><br>
+      <a href="https://www.instagram.com/stacksworth/" target="_blank" style="color:#fca420;">📸 STACKSWORTH</a><br>
       <a href="https://bitcoinmanor.com" target="_blank" style="color:#fca420;">🌐 bitcoinmanor.com</a><br>
-      <a href="https://blokdbit.com" target="_blank" style="color:#fca420;">🌐 blokdbit.com</a><br>
-      📧 blokdbit@bitcoinmanor.com
+      <a href="https://stacksworth.com" target="_blank" style="color:#fca420;">🌐 stacksworth.com</a><br>
+      📧 stacksworth@bitcoinmanor.com
     </p>
   </div>
   
   <div class="header">
     <h1>
-      <img src="assets/blokdbit_logo_icon.png" alt="BLOKDBIT" style="height: 75px; vertical-align: middle; margin-right: 21px;">
-      BLOKDBIT Web Flasher
+      <img src="assets/blokdbit_logo_icon.png" alt="STACKSWORTH" style="height: 75px; vertical-align: middle; margin-right: 21px;">
+      STACKSWORTH Web Flasher
     </h1>
-    <p>✨ Plug in your BLOKDBIT. Select your model. Flash the firmware. Your ₿itcoin Journey Begins! ✨</p>
+    <p>✨ Plug in your STACKSWORTH. Select your model. Flash the firmware. Your ₿itcoin Journey Begins! ✨</p>
 
   </div>
 
@@ -317,7 +317,7 @@
   </div>
 
   <div class="footer">
-    <small>© 2025 BLOKDBIT Web Flasher. All rights reserved. Maintained by Bitcoin Manor.</small>
+    <small>© 2025 STACKSWORTH Web Flasher. All rights reserved. Maintained by Bitcoin Manor.</small>
   </div>
 
 
@@ -538,9 +538,9 @@ async function uploadFirmware() {
 
       const firmwareOptions = {
         Matrix: [
-          { name: "BlokdBit Matrix v1.1", url: "https://bitcoinmanor.github.io/BlokdBit-Matrix/BlokdBit_Matrix_FINAL_SKETCH4Flasher.ino.nodemcu-32s.bin" }
+          { name: "STACKSWORTH Matrix v1.1", url: "https://bitcoinmanor.github.io/BlokdBit-Matrix/BlokdBit_Matrix_FINAL_SKETCH4Flasher.ino.nodemcu-32s.bin" }
         ],
-        Spark: [{ name: "BlokdBit Spark Beta", url: "https://example.com/spark-firmware.bin" }],
+        Spark: [{ name: "STACKSWORTH Spark Beta", url: "https://example.com/spark-firmware.bin" }],
         Pulse: [],
         Edge: [],
         Infinity: []
@@ -566,7 +566,7 @@ async function uploadFirmware() {
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;
-      a.download = 'blokdbit_log.txt';
+      a.download = 'stacksworth_log.txt';
       a.click();
       URL.revokeObjectURL(url);
     }
