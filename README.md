@@ -2,7 +2,7 @@
 
 Flash your STACKSWORTH device right from your browser — no apps, no drivers, just plug in and go.
 
-![STACKSWORTH Banner](https://github.com/BitcoinManor/STACKSWORTH_Spark/raw/master/assets/stacksworth_banner.png)
+![STACKSWORTH Banner](https://github.com/BitcoinManor/STACKSWORTH_Spark/raw/master/assets/stacksworth_logo.png)
 
 This is the official Web Flasher for STACKSWORTH devices like the **Spark**. Whether you’re setting up for the first time or updating firmware, this tool gets you going in seconds.
 
