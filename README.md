@@ -1,4 +1,12 @@
-# ⚡ STACKSWORTH Web Flasher  
+# ⚡ STACKSWORTH Web Flasher
+# ⚡ STACKSWORTH Bitcoin Display Line-Up
+**Open Source • Web Flashable • Bitcoin Metrics Display • Bitcoin at a Glance**
+
+![STACKSWORTH Banner](https://github.com/BitcoinManor/STACKSWORTH_Matrix/raw/main/assets/stacksworth_banner.png)
+
+Welcome to **STACKSWORTH**, the future of open-source Bitcoin displays.  
+
+**This is Bitcoin’s Pulse, at a glance.**
 ### Flash Your ₿itcoin Dashboard in Seconds
 
 Welcome to the official **STACKSWORTH Web Flasher**, the easiest and fastest way to install firmware on your STACKSWORTH devices — Matrix, Spark, Pulse, Edge, and Infinity.
